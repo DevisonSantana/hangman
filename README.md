@@ -1,2 +1,3 @@
-# hangman
-Hangman game made in Java 23
+# Hangman game description
+
+Hangman is a guessing game for two or more players where one player thinks of a word, phrase, or sentence and the other tries to guess it by suggesting letters or numbers within a certain number of guesses. The word to guess is represented by a row of dashes, with each dash representing a letter. If the guessing player suggests a letter that occurs in the word, the letter is written in all its correct positions. If the suggested letter does not occur in the word, the other player draws one element of a hanged man stick figure as a tally mark. The game ends when the guessing player completes the word or guesses the whole word correctly, or when the hanged man figure is fully drawn, indicating the player has lost.
